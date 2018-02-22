@@ -1,13 +1,13 @@
-Pomelo StatsD
+Pomelo DogStatsD
 =============
 
 ### Example Usage
 
 ```javascript
-const pomeloStatsD = require('pomelo-statsd')
+const pomeloDogStatsD = require('pomelo-dogstatsd')
 
 app.configure('all', () => {
-  app.load(pomeloStatsD, {
+  app.load(pomeloDogStatsD, {
     host: 'localhost',
     port: 8125,
   })

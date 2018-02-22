@@ -1,8 +1,8 @@
-// pomelo statsd
-// https://github.com/topfreegames/pomelo-statsd
+// pomelo dogstatsd
+// https://github.com/topfreegames/pomelo-dogstatsd
 //
 // Licensed under the MIT license:
 // http://www.opensource.org/licenses/mit-license
 // Copyright © 2018 Top Free Games <backend@tfgco.com>
 
-module.exports = require('./lib/components/statsd')
+module.exports = require('./lib/components/dogstatsd')

@@ -1,12 +1,12 @@
 {
-  "name": "pomelo-statsd",
+  "name": "pomelo-dogstatsd",
   "version": "0.1.0",
-  "description": "A pomelo plugin that sends monitoring data to a StatsD server",
+  "description": "A pomelo plugin that sends monitoring data to a DogStatsD server",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/topfreegames/pomelo-statsd.git"
+    "url": "git+https://github.com/topfreegames/pomelo-dogstatsd.git"
   },
   "keywords": [
     "pomelo",
@@ -15,9 +15,9 @@
   "author": "Victor Andrade",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/topfreegames/pomelo-statsd/issues"
+    "url": "https://github.com/topfreegames/pomelo-dogstatsd/issues"
   },
-  "homepage": "https://github.com/topfreegames/pomelo-statsd#readme",
+  "homepage": "https://github.com/topfreegames/pomelo-dogstatsd#readme",
   "dependencies": {
     "hot-shots": "^5.1.0"
   }
