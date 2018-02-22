@@ -1,0 +1,24 @@
+{
+  "name": "pomelo-statsd",
+  "version": "0.1.0",
+  "description": "A pomelo plugin that sends monitoring data to a StatsD server",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topfreegames/pomelo-statsd.git"
+  },
+  "keywords": [
+    "pomelo",
+    "statsd"
+  ],
+  "author": "Victor Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topfreegames/pomelo-statsd/issues"
+  },
+  "homepage": "https://github.com/topfreegames/pomelo-statsd#readme",
+  "dependencies": {
+    "hot-shots": "^5.1.0"
+  }
+}
