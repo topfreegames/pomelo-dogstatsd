@@ -1,6 +1,6 @@
 {
   "name": "pomelo-dogstatsd",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A pomelo plugin that sends monitoring data to a DogStatsD server",
   "main": "index.js",
   "scripts": {},
